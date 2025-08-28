@@ -7,6 +7,8 @@ public class Annual_Income_Tax_calculator {
     
     public static void main(String[] args){
 
+        // 백엔드 40기 배세빈 3주차 선택 과제 2번
+
         Scanner scanner = new Scanner(System.in);
         StringBuffer sb = new StringBuffer();
 
